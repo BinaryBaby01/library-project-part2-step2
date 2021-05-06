@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ Class\ Test\ is\ used\ to\ test\ functionality\ of\ other\ classes.\r\n\r\n\ @author\ (Simone\ Bamber)\r\n\ @version\ (08/04/21)\r\n
+comment1.params=
+comment1.target=Test()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Test\r\n
+numComments=2
